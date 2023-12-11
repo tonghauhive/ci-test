@@ -3,7 +3,7 @@ name: Publish Dummy
 on:
   push:
     tags:
-      - 'dummy/v1.1.0-dummmy.0'
+      - 'dummy-v1.1.0-dummmy.0'
 
 jobs:
   publish:    
